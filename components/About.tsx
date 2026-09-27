@@ -33,7 +33,7 @@ export default function About() {
           I build reliable products, end to end.
         </h2>
         <p className="mt-4 max-w-2xl text-muted leading-relaxed">
-          Four years across health-tech and enterprise migrations, plus an independent product built solo.
+          5+ years across health-tech and enterprise migrations, plus an independent product built solo.
           I care about clean architecture, fast iteration, and using AI tooling to move faster without cutting corners.
         </p>
       </Reveal>

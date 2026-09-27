@@ -12,7 +12,7 @@ export const profile = {
     site: "https://gauravmaihuria.dorik.io",
   },
   summary:
-    "Highly motivated and results-oriented full-stack web developer with expertise in the MERN stack, NestJS, and cloud services (AWS). Proven ability to design, develop, and optimize scalable web applications — including leading AI-assisted legacy migrations and independently building products end-to-end, from architecture to production.",
+    "Highly motivated and results-oriented full-stack web developer with 5+ years of experience and expertise in the MERN stack, NestJS, and cloud services (AWS). Proven ability to design, develop, and optimize scalable web applications — including leading AI-assisted legacy migrations and independently building products end-to-end, from architecture to production.",
   resumeFile: "/Gaurav_Maihuria_Resume.pdf",
 };
 

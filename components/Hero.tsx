@@ -111,7 +111,7 @@ export default function Hero() {
           >
             <span>{profile.location}</span>
             <span className="hidden sm:inline">·</span>
-            <span>Building production systems since 2022</span>
+            <span>5+ years of full-stack development experience</span>
             <span className="hidden sm:inline">·</span>
             <span>MERN · NestJS · AWS</span>
           </motion.div>
